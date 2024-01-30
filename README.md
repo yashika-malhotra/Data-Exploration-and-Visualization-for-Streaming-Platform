@@ -52,7 +52,7 @@ We are interested in increasing the revenue of Netflix, hence our main objective
 - Business Insights & Recommendations : Includes patterns observed in the data along with what can infer from it
 
 
-### Description about files in repository:
+### Description about files in repository <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="30" height="30" />:
 
 
-Netflix_Business_Case_Study.ipynb - Colaboratory notebook containing the code for analysis
+**Netflix_Business_Case_Study.ipynb** - Colaboratory notebook containing the code for analysis
